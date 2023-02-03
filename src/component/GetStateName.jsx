@@ -43,7 +43,7 @@ const GetStateName = ({ stateName }) => {
     }, [getCoordinates.lat, getCoordinates.lng]);
 
     const sliderValue = useSelector(state => state.slider.value);
-
+ 
     return (
         <>
             <Row>
