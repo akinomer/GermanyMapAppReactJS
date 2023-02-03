@@ -1,3 +1,3 @@
-Daily Germany WeatherCast.
+Daily Germany WeatherCast Application
 
 ![Screenshot](Screenshot.png)
