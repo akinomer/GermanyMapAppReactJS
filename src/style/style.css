@@ -1,0 +1,67 @@
+.svgSize {
+	transform: scale(1);
+	transform-origin: top left;
+	width: 350px;
+}
+
+.land {
+	fill: gray;
+	stroke: black;
+	stroke-width: 1;
+}
+
+.land:hover {
+	fill: orange;
+}
+
+.land.active {
+	fill: red;
+}
+
+.card svg {
+	display: block;
+	margin: 0 auto;
+}
+
+.rc-slider {
+	height: 40px;
+}
+
+h3 {
+	color: #5faed4;
+}
+
+p {
+	color: #b0b0b0;
+}
+
+.card {
+	border-color: #c7c7c7;
+}
+
+.card-img-top {
+	border-radius: 0px;
+	background: #80808075;
+}
+
+.rc-slider-dot-active {
+	border-color: #ff0017;
+}
+
+.rc-slider-track {
+	background-color: #ff0017;
+}
+
+.rc-slider-handle {
+	border: solid 2px #ff0017;
+}
+
+.rc-slider-handle-dragging.rc-slider-handle-dragging.rc-slider-handle-dragging {
+	border-color: #ff0017;
+	box-shadow: 0 0 0 5px #ff001778;
+}
+
+.card-subtitle {
+	color: #4287bf73 !important;
+
+}
